@@ -1,0 +1,2 @@
+C:\Users\jacob\source\repos\MemoryMatching\x64\Debug\MemoryMatching.exe
+C:\Users\jacob\source\repos\cpp-scripts\MemoryMatching\x64\Debug\MemoryMatching.exe
