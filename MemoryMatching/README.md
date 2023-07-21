@@ -1,6 +1,6 @@
 # Memory Matching Game in C++
 
-<img src="MemoryMatching/fruit-match-demo3.jpg" height="400">
+<img src="https://github.com/snowjacob/cpp-scripts/blob/main/MemoryMatching/fruit-match-demo3.jpg" height="400">
 
 ## Description
 
@@ -8,9 +8,9 @@ Memory Matching is a classic card-matching game implemented in C++. Test and cha
 
 ## Screenshots
 
-<img src="MemoryMatching/fruit-match-demo1.jpg" height="400">
-<img src="MemoryMatching/fruit-match-demo2.jpg" height="400">
-<img src="MemoryMatching/fruit-match-demo3.jpg" height="400">
+<img src="https://github.com/snowjacob/cpp-scripts/blob/main/MemoryMatching/fruit-match-demo1.jpg" height="400">
+<img src="https://github.com/snowjacob/cpp-scripts/blob/main/MemoryMatching/fruit-match-demo2.jpg" height="400">
+<img src="https://github.com/snowjacob/cpp-scripts/blob/main/MemoryMatching/fruit-match-demo3.jpg" height="400">
 
 ## Installation
 
